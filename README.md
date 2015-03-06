@@ -33,7 +33,7 @@ Il est cependant demandé de désactiver tous les composants qui ne sont pas né
 
 ### Pre-processeur
 
-Favoriser l'utilisation de [SASS](http://sass-lang.com) plutôt que LESS.
+Favoriser l'utilisation de [SASS](http://sass-lang.com) plutôt que [less](http://www.lesscss.org).
 
 ### Styleguide
 
