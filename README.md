@@ -56,11 +56,11 @@ Le code Javascript ne doit présenter aucune erreur.
 
 ## Web package manager
 
-Privilégié [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de packets web.
+Privilégié [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de packets web est nécéssaire.
 
 ## Taskrunner
 
-[Grunt](http://gruntjs.com/) qui a notre préférence.
+[Grunt](http://gruntjs.com/) a notre préférence.
 
 ---
 
