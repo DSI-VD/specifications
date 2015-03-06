@@ -44,6 +44,14 @@ Quelques exemple d'outils de génération de styleguide:
 - [Hologram](http://trulia.github.io/hologram/)
 - [KSS](http://warpspire.com/kss/)
 
+## Web package manager
+
+Privilégié [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de packets web.
+
+## Taskrunner
+
+[Grunt](http://gruntjs.com/) qui a notre préférence.
+
 ---
 
 ## Questions
