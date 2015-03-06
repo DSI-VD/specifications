@@ -7,7 +7,7 @@ Les différents livrables, outils et principes d'architecture demandés dans le 
 Le design (HTML, CSS, JS) doit être présenté sous la forme d'un [pattern lab](http://patternlab.io/).  
 Cela permet de visualiser le comportement du site et des différents modules qui le compose.
 
-Une architecture du site selon le principe de l'[Atomic Design]() est conseillé.
+Une architecture du site selon le principe de l'[Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) est conseillé.
 
 ## Accessibilité
 
