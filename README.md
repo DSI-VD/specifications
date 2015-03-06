@@ -1,7 +1,7 @@
 # Cahier des charges technique
 
-Les différents livrables, outils et principes d'architecture demandés dans le cadre d'un développement web pour l'État de Vaud vous sont présentés ci-après. 
- 
+Les différents livrables, outils et principes d'architecture demandés dans le cadre d'un développement web pour l'État de Vaud vous sont présentés ci-après.
+
 
 ## PatternLab
 
@@ -9,6 +9,16 @@ Le design (HTML, CSS, JS) doit être présenté sous la forme d'un [pattern lab]
 Cela permet de visualiser le comportement du site et des différents modules qui le compose.
 
 Une architecture du site selon le principe de l'[Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) est conseillé.
+
+## Navigateurs
+
+Les navigateurs à supporter selon [browserlist](https://github.com/ai/browserslist) sont les suivants:
+
+- `last 2 versions` : the last 2 versions for each major browser.
+- `> 5% in CH`: uses CH usage statistics.
+- `IE >= 8`: Internet Explorer 8
+- 'Firefox >= 31': Firefox 31
+- `Firefox ESR`: the latest [Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/faq/) version.
 
 ## Accessibilité
 
@@ -65,7 +75,7 @@ Privilégié [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de pac
 
 ## CMS
 
-A titre d'information, [TYPO3](http://typo3.org/) est le <abbr title="Content Management System">CSM</abbr> utilisé à l'Etat de Vaud. 
+A titre d'information, [TYPO3](http://typo3.org/) est le <abbr title="Content Management System">CSM</abbr> utilisé à l'Etat de Vaud.
 
 ---
 
