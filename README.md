@@ -77,6 +77,10 @@ Privilégié [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de pac
 
 A titre d'information, [TYPO3](http://typo3.org/) est le <abbr title="Content Management System">CSM</abbr> utilisé à l'Etat de Vaud.
 
+## Open Source
+
+L'Etat de Vaud, se reserve le droit de rendre Open Source les travaux effectués. Merci de developez dans ce sens et de ne pas utiliser de materiel sujet à copyright.
+
 ---
 
 ## Questions
