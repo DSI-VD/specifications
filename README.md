@@ -43,3 +43,9 @@ Il est demandé d'utiliser un système de génération automatique de styleguide
 Quelques exemple d'outils de génération de styleguide:
 - [Hologram](http://trulia.github.io/hologram/)
 - [KSS](http://warpspire.com/kss/)
+
+---
+
+## Questions
+
+Si vous avez des questions, n'hésitez pas à nous contactez en [ouvrant un cas](https://github.com/vdch/specifications/issues/new).
