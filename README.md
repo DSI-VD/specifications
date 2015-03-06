@@ -11,7 +11,7 @@ Le design doit être présenté sous la forme d'un [pattern lab](http://patternl
 Selon la directive *[OHand](http://www.admin.ch/opc/fr/classified-compilation/20031813/index.html#a10)*, les prestations offertent doivent être accessibles à tout un chacun.
 
 > L'information et les prestations de communication ou de transaction proposées sur Internet doivent être accessibles aux personnes handicapées de la parole, de l'ouïe, de la vue ou handicapées moteur. A cet effet, les sites doivent être aménagés conformément aux standards informatiques internationaux, notamment aux directives régissant l'accessibilité des pages Internet, édictées par le Consortium World Wide Web (W3C) et, subsidiairement, aux standards nationaux.
-> - [OHand art. 10](http://www.admin.ch/opc/fr/classified-compilation/20031813/index.html#a10)
+> — [OHand art. 10](http://www.admin.ch/opc/fr/classified-compilation/20031813/index.html#a10)
 
 De ce fait, nous demandons de répondre aux exigences [WCAG 2.0 level AA](http://www.w3.org/TR/WCAG20/).
 
