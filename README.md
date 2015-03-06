@@ -1,6 +1,7 @@
 # Cahier des charges technique
 
-Les différents livrables, outils et principes d'architecture demandés dans le cadre d'un développement web pour l'État de Vaud vous sont présentés ci-après.
+Les différents livrables, outils et principes d'architecture demandés dans le cadre d'un développement web pour l'État de Vaud vous sont présentés ci-après. 
+ 
 
 ## PatternLab
 
@@ -61,6 +62,10 @@ Privilégié [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de pac
 ## Taskrunner
 
 [Grunt](http://gruntjs.com/) a notre préférence.
+
+## CMS
+
+A titre d'information, [TYPO3](http://typo3.org/) est le <abbr title="Content Management System">CSM</abbr> utilisé à l'Etat de Vaud. 
 
 ---
 
