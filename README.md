@@ -17,7 +17,7 @@ Les navigateurs à supporter selon [browserlist](https://github.com/ai/browsersl
 - `last 2 versions` : the last 2 versions for each major browser.
 - `> 5% in CH`: uses CH usage statistics.
 - `IE >= 8`: Internet Explorer 8
-- 'Firefox >= 31': Firefox 31
+- `Firefox >= 31`: Firefox 31
 - `Firefox ESR`: the latest [Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/faq/) version.
 
 ## Accessibilité
