@@ -34,7 +34,7 @@ Cela a comme effet de faciliter leur maintenance.
 ### Framework
 
 Des framework CSS comme [Bootstrap](http://getbootstrap.com) peuvent être utilisé même si **une CSS dédiée est préférable**.
-Il est cependant demandé de désactiver tous les composants qui ne sont pas nécéssaires.
+Il est cependant demandé de désactiver tous les composants qui ne sont pas nécessaires.
 
 ### Preprocesseur
 
