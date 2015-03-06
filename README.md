@@ -4,7 +4,8 @@ Les différents livrables, outils et principes d'architecture demandés dans le 
 
 ## PatternLab
 
-Le design doit être présenté sous la forme d'un [pattern lab](http://patternlab.io/). 
+Le design (HTML, CSS, JS) doit être présenté sous la forme d'un [pattern lab](http://patternlab.io/).  
+Cela permet de visualiser le comportement du site et des différents modules qui le compose.
 
 ## Accessibilité
 
@@ -31,7 +32,7 @@ Cela a comme effet de faciliter leur maintenance.
 Des framework CSS comme [Bootstrap](http://getbootstrap.com) peuvent être utilisé même si **une CSS dédiée est préférable**.
 Il est cependant demandé de désactiver tous les composants qui ne sont pas nécéssaires.
 
-### Pre-processeur
+### Preprocesseur
 
 Favoriser l'utilisation de [SASS](http://sass-lang.com) plutôt que [less](http://www.lesscss.org).
 
