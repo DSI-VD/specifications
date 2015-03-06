@@ -22,7 +22,7 @@ Les navigateurs à supporter selon [browserlist](https://github.com/ai/browsersl
 
 ## Accessibilité
 
-les prestations offertes par l'administration cantonale doivent être accessibles selon l'[Ordonnance sur l'égalité pour les handicapés(OHand)](http://www.admin.ch/opc/fr/classified-compilation/20031813/index.html).
+les prestations offertes par l'administration cantonale sont soumises l'[Ordonnance sur l'égalité pour les handicapés(OHand)](http://www.admin.ch/opc/fr/classified-compilation/20031813/index.html).
 
 > L'information et les prestations de communication ou de transaction proposées sur Internet doivent être accessibles aux personnes handicapées de la parole, de l'ouïe, de la vue ou handicapées moteur. A cet effet, les sites doivent être aménagés conformément aux standards informatiques internationaux, notamment aux directives régissant l'accessibilité des pages Internet, édictées par le Consortium World Wide Web (W3C) et, subsidiairement, aux standards nationaux.  
 > — [OHand art. 10](http://www.admin.ch/opc/fr/classified-compilation/20031813/index.html#a10)
