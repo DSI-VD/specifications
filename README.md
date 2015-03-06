@@ -7,6 +7,8 @@ Les différents livrables, outils et principes d'architecture demandés dans le 
 Le design (HTML, CSS, JS) doit être présenté sous la forme d'un [pattern lab](http://patternlab.io/).  
 Cela permet de visualiser le comportement du site et des différents modules qui le compose.
 
+Une architecture du site selon le principe de l'[Atomic Design]() est conseillé.
+
 ## Accessibilité
 
 Selon la directive *[OHand](http://www.admin.ch/opc/fr/classified-compilation/20031813/index.html#a10)*, les prestations offertent doivent être accessibles à tout un chacun.
@@ -21,6 +23,8 @@ De ce fait, nous demandons de répondre aux exigences [WCAG 2.0 level AA](http:/
 Le code HTML doit être validé et ne présenter aucune erreur lors de [le validateur du W3C](http://validator.w3.org).
 
 ## CSS
+
+Les CSS ne doivent présenter aucune erreur.
 
 ### Architecture
 
@@ -44,6 +48,11 @@ Il est demandé d'utiliser un système de génération automatique de styleguide
 Quelques exemple d'outils de génération de styleguide:
 - [Hologram](http://trulia.github.io/hologram/)
 - [KSS](http://warpspire.com/kss/)
+
+## JavaScript
+
+Le code Javascript ne doit présenter aucune erreur.
+
 
 ## Web package manager
 
