@@ -2,7 +2,6 @@
 
 Les différents livrables, outils et principes d'architecture demandés dans le cadre d'un développement web pour l'État de Vaud vous sont présentés ci-après.
 
-
 ## PatternLab
 
 Le design (HTML, CSS, JS) doit être présenté sous la forme d'un [pattern lab](http://patternlab.io/).
@@ -73,7 +72,7 @@ Privilégier [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de pac
 
 [Grunt](http://gruntjs.com/) a notre préférence.
 
-## CMS
+## CMS TYPO3
 
 A titre d'information, [TYPO3](http://typo3.org/) est le <abbr title="Content Management System">CMS</abbr> utilisé à l'Etat de Vaud.
 
