@@ -11,11 +11,10 @@ Une architecture du site selon le principe de l'[Atomic Design](http://bradfrost
 
 ## Navigateurs
 
-Les navigateurs à supporter selon [browserlist](https://github.com/ai/browserslist) sont les suivants:
+Les navigateurs à supporter selon [browserlist](https://github.com/ai/browserslist) sont [les suivants](http://browserl.ist/?q=last+2+versions%2C+%3E+5%25+in+CH%2C+Firefox+ESR):
 
 - `last 2 versions` : the last 2 versions for each major browser.
 - `> 5% in CH`: uses CH usage statistics.
-- `IE >= 8`: Internet Explorer 8
 - `Firefox ESR`: the latest [Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/faq/) version.
 
 ## Accessibilité
