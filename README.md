@@ -59,11 +59,11 @@ Le code Javascript ne doit présenter aucune erreur.
 
 ## Web package manager
 
-Privilégier [nom]([https://www.npmjs.com]) si l'utilisation d'un gestionnaire de packets web est nécessaire.
+Privilégier [npm](https://www.npmjs.com) si l'utilisation d'un gestionnaire de packets web est nécessaire.
 
 ## Taskrunner
 
-[Gulp.js]([http://gruntjs.com/]) a notre préférence.
+[Gulp.js](http://gruntjs.com/) a notre préférence.
 
 ## CMS TYPO3
 
