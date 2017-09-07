@@ -4,8 +4,8 @@ Les différents livrables, outils et principes d'architecture demandés dans le 
 
 ## PatternLab
 
-Le design (HTML, CSS, JS) doit être présenté sous la forme d'un [pattern lab](http://patternlab.io/).
-Cela permet de visualiser le comportement du site et des différents modules qui le compose.
+Le design (HTML, CSS, JS) doit être présenté sous la forme d’une librairie de composant et styleguide [Fractal](http://fractal.build/).
+Cela permet de visualiser le comportement du site et des différents modules qui le compose et de les documenter.
 
 Une architecture du site selon le principe de l'[Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) est conseillé.
 
@@ -16,7 +16,6 @@ Les navigateurs à supporter selon [browserlist](https://github.com/ai/browsersl
 - `last 2 versions` : the last 2 versions for each major browser.
 - `> 5% in CH`: uses CH usage statistics.
 - `IE >= 8`: Internet Explorer 8
-- `Firefox >= 31`: Firefox 31
 - `Firefox ESR`: the latest [Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/faq/) version.
 
 ## Accessibilité
@@ -30,7 +29,7 @@ De ce fait, les développements doivent répondre aux exigences **[WCAG 2.0 leve
 
 ## HTML
 
-Le code HTML doit être validé et ne présenter aucune erreur lors de [le validateur du W3C](http://validator.w3.org).
+Le code HTML doit être validé et ne présenter aucune erreur signalé par [le validateur du W3C](http://validator.w3.org).
 
 ## CSS
 
@@ -48,29 +47,23 @@ Il est cependant demandé de désactiver tous les composants qui ne sont pas né
 
 ### Preprocesseur
 
-Favoriser l'utilisation de [SASS](http://sass-lang.com) plutôt que [less](http://www.lesscss.org).
+Favoriser l'utilisation de [SASS](http://sass-lang.com) ou [PostCSS]([https://github.com/postcss/postcss]) plutôt que [less](http://www.lesscss.org).
 
 ### Styleguide
 
 Les feuilles de style doivent être documentées et commentées.
-Il est demandé d'utiliser un système de génération automatique de styleguide sur la base des commentaire dans les CSS ("living styleguide").
-
-Quelques exemple d'outils de génération de styleguide:
-- [Hologram](http://trulia.github.io/hologram/)
-- [KSS](http://warpspire.com/kss/)
 
 ## JavaScript
 
 Le code Javascript ne doit présenter aucune erreur.
 
-
 ## Web package manager
 
-Privilégier [Bower](http://bower.io/) si l'utilisation d'un gestionnaire de packets web est nécessaire.
+Privilégier [nom]([https://www.npmjs.com]) si l'utilisation d'un gestionnaire de packets web est nécessaire.
 
 ## Taskrunner
 
-[Grunt](http://gruntjs.com/) a notre préférence.
+[Gulp.js]([http://gruntjs.com/]) a notre préférence.
 
 ## CMS TYPO3
 
